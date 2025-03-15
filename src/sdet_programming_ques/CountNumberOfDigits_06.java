@@ -1,6 +1,6 @@
 package sdet_programming_ques;
 
-public class CountNumberOfDigits {
+public class CountNumberOfDigits_06 {
 
     public static void main(String[] args) {
 
